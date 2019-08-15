@@ -1,0 +1,7 @@
+C:\Users\minome01\Documents\Visual Studio 2017\Projects\FizzBuzzTest\FizzBuzzTest\bin\Debug\FizzBuzzTest.exe.config
+C:\Users\minome01\Documents\Visual Studio 2017\Projects\FizzBuzzTest\FizzBuzzTest\bin\Debug\FizzBuzzTest.exe
+C:\Users\minome01\Documents\Visual Studio 2017\Projects\FizzBuzzTest\FizzBuzzTest\bin\Debug\FizzBuzzTest.pdb
+C:\Users\minome01\Documents\Visual Studio 2017\Projects\FizzBuzzTest\FizzBuzzTest\obj\Debug\FizzBuzzTest.csproj.CoreCompileInputs.cache
+C:\Users\minome01\Documents\Visual Studio 2017\Projects\FizzBuzzTest\FizzBuzzTest\obj\Debug\FizzBuzzTest.exe
+C:\Users\minome01\Documents\Visual Studio 2017\Projects\FizzBuzzTest\FizzBuzzTest\obj\Debug\FizzBuzzTest.pdb
+C:\Users\minome01\Documents\Visual Studio 2017\Projects\FizzBuzzTest\FizzBuzzTest\obj\Debug\FizzBuzzTest.csprojResolveAssemblyReference.cache
